@@ -1,0 +1,8 @@
+﻿  Pac-Man_0001.c
+C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001.c(182,35): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001.c(182,43): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001.c(205,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001.c(206,30): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001.c(215,17): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001.c(216,29): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  Pac-Man_0001.vcxproj -> C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\x64\Debug\Pac-Man_0001.exe

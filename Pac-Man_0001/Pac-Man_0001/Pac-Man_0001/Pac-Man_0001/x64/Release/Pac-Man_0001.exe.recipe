@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\x64\Release\Pac-Man_0001.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\resources\images\ghost.png\frightened.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\resources\images\ghost.png\ghost_normal.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\resources\images\map.png\energydot.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\resources\images\map.png\gold coin.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\resources\images\map.png\wall.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\resources\images\pacman.png\pacman_0.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\resources\images\pacman.png\pacman_1.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\20181\Desktop\GAME\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\Pac-Man_0001\resources\images\pacman.png\pacman_2.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
